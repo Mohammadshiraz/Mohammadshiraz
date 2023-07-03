@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1688371794~exp=1688372394~hmac=213b1ab98ce200198b5816ce70bc2795c27c05851dda2b10067a2424488c2b1c)
+
 <h1 align="center">Hi 👋, I'm Mohammad Shiraz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hqjy601viixvoyrq37seydxja0x9vxlgbym9npu8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
