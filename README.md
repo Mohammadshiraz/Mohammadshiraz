@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Mohammad Shiraz</h1>
+<marquee>
+<h1 align="center">Hi 👋, I'm Mohammad Shiraz</h1></marquee>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hqjy601viixvoyrq37seydxja0x9vxlgbym9npu8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
